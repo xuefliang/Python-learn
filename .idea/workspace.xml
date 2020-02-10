@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2d54a7a-768d-49e3-a925-4e412d942af0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="3bd1f165-82d1-4a19-bb63-a5db45aa66df" />
+  <component name="ProjectId" id="1XK4JevGqEmczwx6jEv7Z5EMAqo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowStructure.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
+    <property name="python.debugger.dataview.coloredbydefault" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.imdb_plotnine">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="imdb_plotnine" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/imdb_plotnine.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numpy_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas_join" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_join.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pandas_learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pm25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datascience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pm25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.imdb_plotnine" />
+        <item itemvalue="Python.pm25" />
+        <item itemvalue="Python.pandas_join" />
+        <item itemvalue="Python.imdb_plotnine" />
+        <item itemvalue="Python.imdb_plotnine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2d54a7a-768d-49e3-a925-4e412d942af0" name="Default Changelist" comment="" />
+      <created>1580781381960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580781381960</updated>
+      <workItem from="1580781391296" duration="2328000" />
+      <workItem from="1580783771780" duration="5835000" />
+      <workItem from="1580817020707" duration="816000" />
+      <workItem from="1580817882876" duration="1151000" />
+      <workItem from="1580819075007" duration="2224000" />
+      <workItem from="1580821702473" duration="6420000" />
+      <workItem from="1580869907410" duration="8923000" />
+      <workItem from="1580894912155" duration="3536000" />
+      <workItem from="1580904229520" duration="4220000" />
+      <workItem from="1580913876095" duration="2875000" />
+      <workItem from="1580919921979" duration="55000" />
+      <workItem from="1580920131551" duration="716000" />
+      <workItem from="1580958672656" duration="8973000" />
+      <workItem from="1580983917627" duration="17462000" />
+      <workItem from="1581064043868" duration="4892000" />
+      <workItem from="1581069311813" duration="6145000" />
+      <workItem from="1581081355362" duration="6696000" />
+      <workItem from="1581128604460" duration="105000" />
+      <workItem from="1581129316835" duration="50000" />
+      <workItem from="1581129400133" duration="469000" />
+      <workItem from="1581134626933" duration="1792000" />
+      <workItem from="1581250812421" duration="1676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="32" width="800" height="675" key="#Other_File_Types" timestamp="1580781669193">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="278" y="32" width="800" height="675" key="#Other_File_Types/0.0.1366.743@0.0.1366.743" timestamp="1580781669193" />
+    <state x="141" y="22" width="1084" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580959904680">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="141" y="22" width="1084" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.743@0.0.1366.743" timestamp="1580959904680" />
+    <state x="371" y="175" width="614" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580892091963">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="371" y="175" width="614" height="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.743@0.0.1366.743" timestamp="1580892091963" />
+    <state x="366" y="97" width="624" height="545" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581346050245">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="366" y="97" width="624" height="545" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.743@0.0.1366.743" timestamp="1581346050245" />
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom" timestamp="1580831443805">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.bottom/0.0.1366.743@0.0.1366.743" timestamp="1580831443805" />
+    <state width="1320" height="176" key="GridCell.Tab.0.center" timestamp="1580831443805">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.center/0.0.1366.743@0.0.1366.743" timestamp="1580831443805" />
+    <state width="1320" height="176" key="GridCell.Tab.0.left" timestamp="1580831443804">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.left/0.0.1366.743@0.0.1366.743" timestamp="1580831443804" />
+    <state width="1320" height="176" key="GridCell.Tab.0.right" timestamp="1580831443805">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="1320" height="176" key="GridCell.Tab.0.right/0.0.1366.743@0.0.1366.743" timestamp="1580831443805" />
+    <state x="164" y="5" key="SettingsEditor" timestamp="1581163802806">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="164" y="5" key="SettingsEditor/0.0.1366.743@0.0.1366.743" timestamp="1581163802806" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1580919646518">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/0.0.1366.743@0.0.1366.743" timestamp="1580919646518" />
+    <state x="331" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1581132501209">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="331" y="199" key="com.intellij.ide.util.TipDialog/0.0.1366.743@0.0.1366.743" timestamp="1581132501209" />
+    <state x="408" y="261" width="540" height="217" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580904749510">
+      <screen x="0" y="0" width="1366" height="743" />
+    </state>
+    <state x="408" y="261" width="540" height="217" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.743@0.0.1366.743" timestamp="1580904749510" />
+  </component>
+</project>
